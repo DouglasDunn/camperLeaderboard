@@ -1,7 +1,8 @@
 var React = require('react');
 var ReactDOM = require('react-dom');
+var Camper = require("Camper");
 
 ReactDOM.render(
-  <h1>Boilerplate app!</h1>,
+  <Camper/>,
   document.getElementById('app')
 );

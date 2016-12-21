@@ -1,0 +1,41 @@
+body {
+  background: #4c0000;
+  color: white;
+}
+
+#table {
+  background: #000066;
+  width: 90%;
+  margin: auto;
+}
+
+h1 {
+  margin-bottom: 50px;
+}
+
+button {
+  margin-bottom: 50px;
+  background: #000066;
+  border-radius: 5px;
+}
+
+.selected {
+  border: 5px solid white;
+  border-radius: 10px;
+  pointer-events: none;
+}
+
+#loading {
+  margin-top: 300px;
+  font-size: 30px;
+}
+
+img {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+
+a, a:hover {
+  color: white;
+}
